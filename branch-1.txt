@@ -1,0 +1,3 @@
+This file was created in branch-1.
+
+Popped from stash list to complete the unfinished work.
